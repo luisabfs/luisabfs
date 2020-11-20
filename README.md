@@ -1,4 +1,14 @@
-### Hi there 👋
+### ✨ Olá! ✨
+
+Tenho 19 anos, sou Técnica em Informática, entusiasta do desenvolvimento full-stack e das tecnologias Javascript - React.js, Node.js e React Native. 
+
+Atuei por 8 meses na área de desenvolvimento mobile e, no momento, estou focando em construir o meu portfólio e em aprender Typescript! :blue_heart:
+
+Apesar de ser desenvolvedora, sou apaixonada por UI/UX, métricas e produtos voltados diretamente aos usuários finais. Sempre tive uma sede gigante pelo conhecimento, autodidatismo e por compartilhar o que aprendo. Por isso criei um perfil no Instagram há pouco mais de 1 ano, chamado [@luisa.dev](https://instagram.com/luisa.dev), onde exponho minha jornada na área de TI.
+
+Também amo ler, ouvir música, aprender línguas estrangeiras e tomar um café (sem açúcar, por favor! haha).
+
+Podem [me chamar](https://luisabfs.github.io) em alguma rede social pra trocarmos ideia!
 
 <!--
 **luisabfs/luisabfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
