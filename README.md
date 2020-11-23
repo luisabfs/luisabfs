@@ -1,4 +1,10 @@
 ### ✨ Olá! ✨
+[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/luisa.dev)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.in/luisabfs)
+[<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/luiiy_)
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter/lully_)
+[<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/12142458787)
+[<img src="https://img.shields.io/badge/website-%236594a5.svg?&style=for-the-badge&logo=librarything&logoColor=white">](https://luisabfs.github.io/#/)
 
 Tenho 19 anos, sou Técnica em Informática, entusiasta do desenvolvimento full-stack e das tecnologias Javascript - React.js, Node.js e React Native. 
 
@@ -8,19 +14,7 @@ Apesar de ser desenvolvedora, sou apaixonada por UI/UX, métricas e produtos vol
 
 Também amo ler, ouvir música, aprender línguas estrangeiras e tomar um café (sem açúcar, por favor! haha).
 
-Podem [me chamar](https://luisabfs.github.io) em alguma rede social pra trocarmos ideia!
-
-<!--
-**luisabfs/luisabfs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=luisabfs&theme=dracula&line_height=27">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisabfs&hide=html,css&theme=dracula">
+</p>
