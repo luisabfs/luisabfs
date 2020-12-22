@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/luiiy_)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter/lully_)
 [<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/12142458787)
-[<img src="https://img.shields.io/badge/website-%236594a5.svg?&style=for-the-badge&logo=librarything&logoColor=white">](https://luisabfs.github.io/#/)
+[<img src="https://img.shields.io/badge/website-%236594a5.svg?&style=for-the-badge&logo=librarything&logoColor=white">](https://luisa.dev)
 
 Tenho 19 anos, sou Técnica em Informática, entusiasta do desenvolvimento full-stack e das tecnologias Javascript - React.js, Node.js e React Native. 
 
