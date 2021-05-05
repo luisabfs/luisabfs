@@ -16,5 +16,5 @@ Também amo ler, ouvir música, aprender línguas estrangeiras e tomar um café 
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=luisabfs&theme=dracula&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisabfs&hide=html,css,ruby&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisabfs&hide=html,css,ruby,starlark,kotlin,python,handlebars,shell&theme=dracula">
 </p>
