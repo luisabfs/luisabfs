@@ -8,7 +8,7 @@
 
 Tenho 20 anos, sou Técnica em Informática, entusiasta do desenvolvimento full-stack e das tecnologias Javascript - React.js, Node.js e React Native. 
 
-Atuo há 1 ano e meio na área de desenvolvimento mobile com a stack Typescript/React Native, mas também ajudo na manutenção de projetos em Java e Node para a plataforma Android. No momento, estou iniciando os estudos em Spring Boot, Serverless Framework e integração com Websockets/API Gateway :green_heart:
+Atuo há 2 anos na área de desenvolvimento mobile com a stack Typescript/React Native, mas também ajudo na manutenção de projetos em Java e Node para a plataforma Android. No momento, estou iniciando os estudos em Spring Boot, Serverless Framework e integração com Websockets/API Gateway :green_heart:
 
 Apesar de ser desenvolvedora, sou apaixonada por UI/UX, métricas e produtos voltados diretamente aos usuários finais. Sempre tive uma sede gigante pelo conhecimento, autodidatismo e por compartilhar o que aprendo. Por isso criei um perfil no Instagram há pouco mais de 2 anos, chamado [@luisa.dev](https://instagram.com/luisa.dev), onde exponho minha jornada na área de TI.
 
