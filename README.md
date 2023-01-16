@@ -18,3 +18,4 @@ Também amo ler, ouvir música, aprender novos idiomas ( 🇧🇷, :us:, 🇫�
   <img src="https://github-readme-stats.vercel.app/api?username=luisabfs&theme=dracula&line_height=27">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisabfs&hide=html,css,ruby,starlark,kotlin,python,handlebars,shell,objective-c&theme=dracula">
 </p> -->
+![banner-linkedin](https://user-images.githubusercontent.com/21061462/212781573-2cb9cfa5-861e-4a6d-b4ce-e8c7c890fcfa.png)
