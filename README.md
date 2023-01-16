@@ -14,7 +14,7 @@ Apesar de ser desenvolvedora, sou apaixonada por UI/UX, métricas e produtos vol
 
 Também amo ler, ouvir música, aprender novos idiomas ( 🇧🇷, :us:, 🇫🇷, :es: ) e tomar um café (sem açúcar, por favor!).
 
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=luisabfs&theme=dracula&line_height=27">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisabfs&hide=html,css,ruby,starlark,kotlin,python,handlebars,shell,objective-c&theme=dracula">
-</p>
+</p> -->
