@@ -14,7 +14,10 @@ Apesar de ser desenvolvedora, sou apaixonada por UI/UX, métricas e produtos vol
 
 Também amo ler, ouvir música, aprender novos idiomas ( 🇧🇷, :us:, 🇫🇷, :es: ) e tomar um café (sem açúcar, por favor!).
 
-<p>
+<!-- <p>
   <img src="https://github-readme-stats.vercel.app/api?username=luisabfs&theme=dracula&line_height=27">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisabfs&hide=html,css,ruby,starlark,kotlin,python,handlebars,shell,objective-c&theme=dracula">
-</p>
+</p> -->
+
+![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c75697361626673267468656d653d64726163756c61266c696e655f6865696768743d3237](https://user-images.githubusercontent.com/21061462/213342598-18cccd8a-6215-49c1-80da-798e6383ddb8.svg)
+![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c7569736162667326686964653d68746d6c2c6373732c727562792c737461726c61726b2c6b6f746c696e2c707974686f6e2c68616e646c65626172732c7](https://user-images.githubusercontent.com/21061462/213342605-50e69155-9c62-4c8b-83e6-83548d0f5560.svg)
