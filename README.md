@@ -15,7 +15,7 @@ Atuo há mais de 3 anos na área de desenvolvimento mobile com a stack Typescrip
 
 Apesar de ser desenvolvedora, sou apaixonada por UI/UX, métricas e produtos voltados diretamente aos usuários finais. Sempre tive uma sede gigante pelo conhecimento, autodidatismo e por compartilhar o que aprendo. Por isso criei um perfil no Instagram há pouco mais de 4 anos, chamado [@luisa.dev](https://instagram.com/luisa.dev), onde exponho minha jornada na área de TI.
 
-Também amo ler, ouvir música, aprender novos idiomas ( 🇧🇷, :us:, 🇫🇷, :es:, 🇳🇱 ) e tomar um café (sem açúcar, por favor!).
+Também amo ler, ouvir música, aprender novos idiomas ( 🇧🇷, :us:, 🇫🇷, :es:, 🇳🇱 ) e jogos de tabuleiro.
 
 [Vídeo de introdução](https://youtu.be/GwClERflCVw)
 
