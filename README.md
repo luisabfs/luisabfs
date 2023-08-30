@@ -1,8 +1,10 @@
 ### ✨ Olá! ✨
+[<img src="https://img.shields.io/badge/website-%236594a5.svg?&style=for-the-badge&logo=librarything&logoColor=white">](https://luisa.dev)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/luisa.dev)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luisabfs/)
 [<img src="https://img.shields.io/badge/youtube-%23c4302b.svg?&style=for-the-badge&logo=youtube&logoColor=white%22">](https://youtu.be/GwClERflCVw)
-[<img src="https://img.shields.io/badge/website-%236594a5.svg?&style=for-the-badge&logo=librarything&logoColor=white">](https://luisa.dev)
+[<img src="https://img.shields.io/badge/duolingo-%2358cc02.svg?&style=for-the-badge&logo=duolingo&logoColor=white">](https://www.duolingo.com/profile/luisabfs)
+
 
 ### 🔗 [Vídeo de introdução](https://youtu.be/GwClERflCVw)
 
