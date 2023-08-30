@@ -12,7 +12,7 @@
 <!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com) -->
 <!-- [<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/12142458787) -->
 
-Tenho 22 anos, sou entusiasta do desenvolvimento full-stack e das tecnologias Javascript - React.js, Node.js e React Native. 
+Sou entusiasta do desenvolvimento full-stack e das tecnologias Javascript - React.js, Node.js e React Native. 
 
 Atuo há mais de 3 anos na área de desenvolvimento mobile com a stack Typescript/React Native, mas também ajudo na manutenção de projetos em Java e Node para a plataforma Android. No momento, estou me dedicando aos estudos de testes automatizados. :green_heart:
 
