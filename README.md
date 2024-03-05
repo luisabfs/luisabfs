@@ -12,9 +12,9 @@
 <!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com) -->
 <!-- [<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/12142458787) -->
 
-Sou entusiasta do desenvolvimento full-stack e das tecnologias Javascript - React.js, Node.js e React Native. 
+Sou autodidata, entusiasta do trabalho remoto e do desenvolvimento full-stack, especialmente das tecnologias JavaScript - React.js, Node.js e React Native.
 
-Atuo há mais de 3 anos na área de desenvolvimento mobile com a stack Typescript/React Native, mas também ajudo na manutenção de projetos em Java e Node para a plataforma Android. No momento, estou estudando Swift e testes automatizados. :green_heart:
+Tenho mais de 4 anos de experiência em desenvolvimento mobile e, atualmente, estou trabalhando com desenvolvimento frontend web utilizando diariamente Typescript, Next.js e Tailwind CSS. :purple_heart:
 
 Apesar de ser desenvolvedora, sou apaixonada por UI/UX, métricas e produtos voltados diretamente aos usuários finais. Sempre tive uma sede gigante pelo conhecimento, autodidatismo e por compartilhar o que aprendo. Por isso criei um perfil no Instagram há pouco mais de 4 anos, chamado [@luisa.dev](https://instagram.com/luisa.dev), onde exponho minha jornada na área de TI.
 
