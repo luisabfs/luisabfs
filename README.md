@@ -1,9 +1,9 @@
 ### ✨ Olá! ✨
 [<img src="https://img.shields.io/badge/website-%236594a5.svg?&style=for-the-badge&logo=librarything&logoColor=white">](https://luisa.dev)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/luisa.dev)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/luisabfs/)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=librarything&logoColor=white" />](https://www.linkedin.com/in/luisabfs/)
 [<img src="https://img.shields.io/badge/youtube-%23c4302b.svg?&style=for-the-badge&logo=youtube&logoColor=white%22">](https://youtu.be/GwClERflCVw)
-[<img src="https://img.shields.io/badge/duolingo-%2358cc02.svg?&style=for-the-badge&logo=duolingo&logoColor=white">](https://www.duolingo.com/profile/luisabfs)
+<!-- [<img src="https://img.shields.io/badge/duolingo-%2358cc02.svg?&style=for-the-badge&logo=duolingo&logoColor=white">](https://www.duolingo.com/profile/luisabfs) -->
 
 
 ### 🔗 [Vídeo de introdução](https://youtu.be/GwClERflCVw)
@@ -14,9 +14,9 @@
 
 Sou autodidata, entusiasta do trabalho remoto e do desenvolvimento full-stack, especialmente das tecnologias JavaScript - React.js, Node.js e React Native.
 
-Tenho mais de 4 anos de experiência em desenvolvimento mobile e, atualmente, estou trabalhando com desenvolvimento frontend web utilizando diariamente Typescript, Next.js e Tailwind CSS. :purple_heart:
+Tenho mais de 5 anos de experiência em desenvolvimento mobile e, atualmente, estou trabalhando com desenvolvimento frontend web utilizando diariamente Typescript, Next.js e Tailwind CSS. :purple_heart:
 
-Apesar de ser desenvolvedora, sou apaixonada por UI/UX, métricas e produtos voltados diretamente aos usuários finais. Sempre tive uma sede gigante pelo conhecimento, autodidatismo e por compartilhar o que aprendo. Por isso criei um perfil no Instagram há pouco mais de 4 anos, chamado [@luisa.dev](https://instagram.com/luisa.dev), onde exponho minha jornada na área de TI.
+Apesar de ser desenvolvedora, sou apaixonada por UI/UX, métricas e produtos voltados diretamente aos usuários finais. Sempre tive uma sede gigante pelo conhecimento, autodidatismo e por compartilhar o que aprendo. Tenho um perfil no Instagram chamado [@luisa.dev](https://instagram.com/luisa.dev) onde exponho minha jornada na área de tecnologia.
 
 Também amo ler, ouvir música, aprender novos idiomas ( 🇧🇷, :us:, 🇫🇷, :es:, 🇳🇱 ) e jogos de tabuleiro.
 
