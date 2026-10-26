@@ -1,29 +1,22 @@
-### ✨ Olá! ✨
-[<img src="https://img.shields.io/badge/website-%236594a5.svg?&style=for-the-badge&logo=librarything&logoColor=white">](https://luisa.dev)
-[<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/luisa.dev)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=librarything&logoColor=white" />](https://www.linkedin.com/in/luisabfs/)
-[<img src="https://img.shields.io/badge/youtube-%23c4302b.svg?&style=for-the-badge&logo=youtube&logoColor=white%22">](https://youtu.be/GwClERflCVw)
-<!-- [<img src="https://img.shields.io/badge/duolingo-%2358cc02.svg?&style=for-the-badge&logo=duolingo&logoColor=white">](https://www.duolingo.com/profile/luisabfs) -->
+# Hi, I'm Luísa 👋
 
+**Frontend & Mobile Engineer** based in Brazil, with 6+ years of experience building web and mobile applications.
 
-### 🔗 [Vídeo de introdução](https://youtu.be/GwClERflCVw)
+I work primarily with **React Native, React, TypeScript, Next.js and Expo**, with experience across fintech, retail, education and large-scale consumer products.
 
-<!-- [<img src="https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white" />](https://www.twitch.tv/luiiy_) -->
-<!-- [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com) -->
-<!-- [<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />](https://open.spotify.com/user/12142458787) -->
+Most recently, at Flutter Brazil, I contributed to **iOS and Android app releases**, React Native ↔ WebView integrations, transactional user flows, product analytics, Design System components and production debugging. One of the Android apps I worked on reached **5M+ downloads on Google Play**.
 
-Sou autodidata, entusiasta do trabalho remoto e do desenvolvimento full-stack, especialmente das tecnologias JavaScript - React.js, Node.js e React Native.
+I enjoy thoughtful interfaces, tricky cross-platform bugs, and building products that people actually use. I'm also interested in improving developer experience, testing and accessible UI.
 
-Tenho mais de 5 anos de experiência em desenvolvimento mobile e, atualmente, estou trabalhando com desenvolvimento frontend web utilizando diariamente Typescript, Next.js e Tailwind CSS. :purple_heart:
+### Technologies I work with
 
-Apesar de ser desenvolvedora, sou apaixonada por UI/UX, métricas e produtos voltados diretamente aos usuários finais. Sempre tive uma sede gigante pelo conhecimento, autodidatismo e por compartilhar o que aprendo. Tenho um perfil no Instagram chamado [@luisa.dev](https://instagram.com/luisa.dev) onde exponho minha jornada na área de tecnologia.
+**Mobile & Web:** React Native · React · Expo · Next.js · TypeScript · JavaScript  
+**State & Data:** Redux Toolkit · RTK Query · REST APIs · GraphQL  
+**UI & Quality:** Storybook · Tailwind CSS · Tamagui · Jest · Cypress  
+**Tooling:** Git · GitHub · Figma · Grafana · Amplitude
 
-Também amo ler, ouvir música, aprender novos idiomas ( 🇧🇷, :us:, 🇫🇷, :es:, 🇳🇱 ) e jogos de tabuleiro.
+### Find me
 
-<!-- <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=luisabfs&theme=dracula&line_height=27">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisabfs&hide=html,css,ruby,starlark,kotlin,python,handlebars,shell,objective-c&theme=dracula">
-</p> -->
+[Portfolio](https://www.luisa.dev) · [LinkedIn](https://www.linkedin.com/in/luisabfs/) · [Email](mailto:luisa.barros.dev@gmail.com)
 
-![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6c75697361626673267468656d653d64726163756c61266c696e655f6865696768743d3237](https://user-images.githubusercontent.com/21061462/213342598-18cccd8a-6215-49c1-80da-798e6383ddb8.svg)
-![68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6c7569736162667326686964653d68746d6c2c6373732c727562792c737461726c61726b2c6b6f746c696e2c707974686f6e2c68616e646c65626172732c7](https://user-images.githubusercontent.com/21061462/213342605-50e69155-9c62-4c8b-83e6-83548d0f5560.svg)
+_Outside of code, I love reading, learning languages, and making things with my hands._
